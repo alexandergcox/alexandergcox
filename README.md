@@ -6,6 +6,8 @@
 
   This profile is being updated and will soon show more interesting projects! 🙂
 
+  [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcox121&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Alexander Cox StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21690262)](https://stackoverflow.com/users/21690262/alexander)
 
 <!---

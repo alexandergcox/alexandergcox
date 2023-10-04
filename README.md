@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexcox121
-- 👀 I’m interested in making the move over from engineering and to become a data analyst
+- 👀 I’m interested in making the move over from engineering and becoming a data analyst
 - 🌱 I’m currently learning R with R studio
 - 💞️ I’m looking to collaborate on Stack, Python and SQL
 - 📫 How to reach me alexcox121@gmail.com

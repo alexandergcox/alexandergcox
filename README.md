@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexcox121
-- 👀 I’m interested in changing careers from engineering to become a data analyst
+- 👀 I’m interested in changing careers from engineering to become a data analyst.  I enjoy machine learning, analytics and data science.
 - 🌱 I’m currently learning R & Rust
 - 💞️ I’m looking to collaborate on StackOverlow, Python and SQL
 - 📫 How to reach me alexcox121@gmail.com

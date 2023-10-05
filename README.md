@@ -8,9 +8,7 @@
 
   ![Visitor Count](https://profile-counter.glitch.me/{alexcox121}/count.svg)
 
-[![Alexander Cox StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21690262)](https://stackoverflow.com/users/21690262/alexander)
-
-  [![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcox121&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexander Cox StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21690262)](https://stackoverflow.com/users/21690262/alexander) [![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcox121&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 alexcox121/alexcox121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

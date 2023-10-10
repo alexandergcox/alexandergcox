@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alexcox121
-- 👀 I’m interested in changing careers from engineering to become a data analyst.  I enjoy machine learning, analytics and data science.
-- 🌱 I’m currently learning R & Rust
+- 👋 Hi, I’m @alexandergcox
+- 👀 I’m interested in machine learning, analytics and data science.
+- 🌱 I’m currently learning R.
 - 💞️ I’m looking to collaborate on StackOverlow, Python and SQL
 - 📫 How to reach me alexcox121@gmail.com
 

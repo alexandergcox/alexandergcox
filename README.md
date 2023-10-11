@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandergcox
 - 👀 I’m interested in machine learning, analytics and data science.
-- 🌱 I’m currently learning R.
-- 💞️ I’m looking to collaborate on StackOverlow, Python and SQL
+- 🌱 I’m currently learning VBA.
+- 💞️ I’m looking to collaborate on R, StackOverlow, Python and SQL
 - 📫 How to reach me alexcox121@gmail.com
 
   This profile is being updated and will soon show more interesting projects! 🙂

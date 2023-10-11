@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandergcox
 - 👀 I’m interested in machine learning, analytics and data science.
-- 🌱 I’m currently learning VBA.
+- 🌱 I’m currently learning VBA & Azure.
 - 💞️ I’m looking to collaborate on R, StackOverlow, Python and SQL
 - 📫 How to reach me alexcox121@gmail.com
 

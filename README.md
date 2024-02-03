@@ -21,5 +21,6 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img height=50>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> <img height=50>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /><img height=50>
-  
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 

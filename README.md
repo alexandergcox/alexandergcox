@@ -9,4 +9,4 @@
   Keen to learn some more Python libraries over the next few months 🙂
 
   ![Visitor Count](https://profile-counter.glitch.me/{alexandergcox}/count.svg)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandergcox"/>

@@ -9,4 +9,9 @@
   Keen to learn some more Python libraries over the next few months 🙂
 
   ![Visitor Count](https://profile-counter.glitch.me/{alexandergcox}/count.svg)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/r/r-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/c/c-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sql/sql-ar21.svg"></code>
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandergcox"/>

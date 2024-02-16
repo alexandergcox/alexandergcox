@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandergcox
 - 👀 I’m interested in machine learning, analytics and data science.
-- 👀 I am hoping to change roles in the next few month and to update my personal GitHub.
+- 👀 I am hoping to change roles in the next few months and to update my personal GitHub.
 - 🌱 I’m currently learning PHP, Java & Ruby
 - 💞️ I’m looking to develop further on R, Python and SQL.
 - 💬 Ask me about articles on Medium and collaborating on StackOverlow
